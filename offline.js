@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1771062471,
+	"version": 1771069005,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -29,6 +29,7 @@
 		"images/jump-sheet0.png",
 		"images/play-sheet0.png",
 		"images/bg.png",
+		"images/valen-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
